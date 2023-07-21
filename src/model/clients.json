@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "resident": {
+      "name": "Anvar Sanayev"
+    },
+    "start": "25-07-2023 10:00:00",
+    "end": "25-07-2023 14:00:00",
+    "room_id": 3
+  },
+  {
+    "id": 2,
+    "resident": {
+      "name": "Ozodbek Nazarbekov"
+    },
+    "start": "25-07-2023 13:00:00",
+    "end": "25-07-2023 15:00:00",
+    "room_id": 2
+  },
+  {
+    "id": 3,
+    "resident": {
+      "name": "Munisa Rizayeva"
+    },
+    "start": "25-07-2023 15:00:00",
+    "end": "25-07-2023 18:00:00",
+    "room_id": 1
+  }
+]

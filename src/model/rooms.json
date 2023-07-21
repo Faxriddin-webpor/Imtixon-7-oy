@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "mytaxi",
+    "type": "focus",
+    "capacity": 1
+  },
+  {
+    "id": 2,
+    "name": "workly",
+    "type": "team",
+    "capacity": 5
+  },
+  {
+    "id": 3,
+    "name": "express24",
+    "type": "conference",
+    "capacity": 15
+  }
+]
